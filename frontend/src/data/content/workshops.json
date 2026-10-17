@@ -1,0 +1,116 @@
+[
+  {
+    "id": "mak-yong-gestures-2026",
+    "festivalId": "george-town-2026",
+    "title": { "ms": "Gerak asas Mak Yong", "en": "Basic Mak Yong gestures" },
+    "description": {
+      "ms": "Sesi permulaan yang merangkumi postur, empat kedudukan tangan asas dan langkah pembukaan. Tiada pengalaman diperlukan; pakai pakaian yang membolehkan anda duduk bersila.",
+      "en": "A beginners' session covering posture, the four basic hand positions and the opening walk. No experience needed; wear clothing you can sit cross-legged in."
+    },
+    "startsAt": "2026-08-17T11:00:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "studio-2",
+    "capacity": 20,
+    "placesLeft": 12,
+    "ledByArtistId": "che-ning-awang",
+    "imageKey": "rentak-workshop-hero",
+    "preparatoryLessonId": "mak-yong-3"
+  },
+  {
+    "id": "sape-tunig-2026",
+    "festivalId": "rainforest-2026",
+    "title": { "ms": "Tala dan main sape'", "en": "Tune and play the sape'" },
+    "description": {
+      "ms": "Belajar cara sape' ditala dan mainkan melodi berulang yang ringkas. Alat muzik disediakan; sesuai untuk pemula berumur 12 tahun ke atas.",
+      "en": "Learn how the sape' is tuned and play a simple repeating melody. Instruments provided; suitable for beginners aged 12 and up."
+    },
+    "startsAt": "2026-09-13T10:00:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "santubong-main-stage",
+    "capacity": 15,
+    "placesLeft": 4,
+    "ledByArtistId": "lirong-anyie",
+    "imageKey": "rentak-workshop-hero"
+  },
+  {
+    "id": "dikir-call-response-2026",
+    "festivalId": "dikir-pantai-2026",
+    "title": { "ms": "Sahut-menyahut dikir barat", "en": "Dikir barat call and response" },
+    "description": {
+      "ms": "Berlatih sahut-menyahut dikir barat: ikut tukang karut, kekalkan tepukan dan sahut beramai-ramai. Tiada pengalaman menyanyi diperlukan.",
+      "en": "Practise the call and response of dikir barat: follow the tukang karut, keep the clap and answer in chorus. No singing experience needed."
+    },
+    "startsAt": "2026-10-11T10:00:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "gelanggang-seni-kb",
+    "capacity": 30,
+    "placesLeft": 18,
+    "ledByArtistId": "azman-yusof",
+    "imageKey": "rentak-workshop-hero"
+  },
+  {
+    "id": "zapin-first-steps-2026",
+    "festivalId": "tari-serantau-2026",
+    "title": { "ms": "Langkah pertama zapin", "en": "First steps in zapin" },
+    "description": {
+      "ms": "Kiraan langkah asas zapin, pusingan dan langkah penutup, ditarikan dengan iringan gambus dan marwas secara langsung. Pakai kasut yang selesa atau berkaki ayam.",
+      "en": "The basic zapin step count, turns and closing steps, danced to live gambus and marwas. Wear comfortable shoes or go barefoot."
+    },
+    "startsAt": "2026-10-18T10:30:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "auditorium-seri-budaya",
+    "capacity": 25,
+    "placesLeft": 9,
+    "ledByArtistId": "siti-hajar-mokhtar",
+    "imageKey": "rentak-workshop-hero"
+  },
+  {
+    "id": "puppet-cutting-2026",
+    "festivalId": "bayang-pulau-2026",
+    "title": { "ms": "Membuat patung wayang kulit", "en": "Make a shadow puppet" },
+    "description": {
+      "ms": "Potong dan tebuk patung wayang kulit kecil daripada kad, kemudian cubanya di belakang kelir. Semua peralatan disediakan; tidak sesuai untuk kanak-kanak bawah 10 tahun.",
+      "en": "Cut and punch a small wayang kulit figure from card, then try it behind the screen. All tools provided; not suitable for under-10s."
+    },
+    "startsAt": "2026-11-14T14:00:00+08:00",
+    "durationMinutes": 150,
+    "venueId": "dewan-budaya",
+    "capacity": 12,
+    "placesLeft": 0,
+    "ledByArtistId": "rosli-hamzah",
+    "imageKey": "rentak-workshop-hero",
+    "preparatoryLessonId": "wayang-kulit-2"
+  },
+  {
+    "id": "joget-partners-2026",
+    "festivalId": "joget-pesisir-2026",
+    "title": { "ms": "Joget berpasangan", "en": "Joget for partners" },
+    "description": {
+      "ms": "Sesi joget yang rancak untuk berpasangan atau solo: langkah asas, pusingan berpasangan dan menjaga tempo dengan biola. Pasangan tidak diwajibkan.",
+      "en": "A lively joget session for pairs or solo dancers: the basic step, the partner turn and keeping time with the violin. No partner needed."
+    },
+    "startsAt": "2026-12-12T17:00:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "padang-kota",
+    "capacity": 40,
+    "placesLeft": 31,
+    "ledByArtistId": "siti-hajar-mokhtar",
+    "imageKey": "rentak-workshop-hero"
+  },
+  {
+    "id": "ngajat-basics-2026",
+    "festivalId": "ngajat-kuching-2027",
+    "title": { "ms": "Asas Ngajat", "en": "Ngajat basics" },
+    "description": {
+      "ms": "Pelajari pendirian pembukaan dan gerak tangan ngajat, tarian Iban yang dipersembahkan semasa Gawai dan untuk menyambut tetamu. Sesuai untuk semua peringkat umur.",
+      "en": "Learn the opening stance and arm movements of the ngajat, the Iban dance performed at Gawai and to welcome guests. Suitable for all ages."
+    },
+    "startsAt": "2027-02-21T09:30:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "dewan-budaya-kuching",
+    "capacity": 20,
+    "placesLeft": 1,
+    "ledByArtistId": "jalong-unggat",
+    "imageKey": "rentak-workshop-hero"
+  }
+]

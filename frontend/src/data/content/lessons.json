@@ -1,0 +1,152 @@
+[
+  {
+    "id": "wayang-kulit-1",
+    "courseId": "wayang-kulit-kelantan",
+    "courseName": {
+      "ms": "Wayang Kulit Kelantan",
+      "en": "Wayang Kulit Kelantan"
+    },
+    "title": {
+      "ms": "Kelir dan pelita",
+      "en": "The screen and the lamp"
+    },
+    "order": 1,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "wayang-kulit-2",
+    "courseId": "wayang-kulit-kelantan",
+    "courseName": {
+      "ms": "Wayang Kulit Kelantan",
+      "en": "Wayang Kulit Kelantan"
+    },
+    "title": {
+      "ms": "Mengenali patung",
+      "en": "Meet the puppets"
+    },
+    "order": 2,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "wayang-kulit-3",
+    "courseId": "wayang-kulit-kelantan",
+    "courseName": {
+      "ms": "Wayang Kulit Kelantan",
+      "en": "Wayang Kulit Kelantan"
+    },
+    "title": {
+      "ms": "Suara dalang",
+      "en": "The dalang's voice"
+    },
+    "order": 3,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "wayang-kulit-4",
+    "courseId": "wayang-kulit-kelantan",
+    "courseName": {
+      "ms": "Wayang Kulit Kelantan",
+      "en": "Wayang Kulit Kelantan"
+    },
+    "title": {
+      "ms": "Gamelan di belakang kelir",
+      "en": "Gamelan behind the screen"
+    },
+    "order": 4,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "wayang-kulit-5",
+    "courseId": "wayang-kulit-kelantan",
+    "courseName": {
+      "ms": "Wayang Kulit Kelantan",
+      "en": "Wayang Kulit Kelantan"
+    },
+    "title": {
+      "ms": "Menonton persembahan pertama anda",
+      "en": "Watching your first performance"
+    },
+    "order": 5,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "mak-yong-1",
+    "courseId": "mak-yong-kelantan",
+    "courseName": {
+      "ms": "Mak Yong Kelantan",
+      "en": "Mak Yong Kelantan"
+    },
+    "title": {
+      "ms": "Apa itu Mak Yong?",
+      "en": "What is Mak Yong?"
+    },
+    "order": 1,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "mak-yong-2",
+    "courseId": "mak-yong-kelantan",
+    "courseName": {
+      "ms": "Mak Yong Kelantan",
+      "en": "Mak Yong Kelantan"
+    },
+    "title": {
+      "ms": "Watak and peranan?",
+      "en": "Characters and roles?"
+    },
+    "order": 2,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "mak-yong-3",
+    "courseId": "mak-yong-kelantan",
+    "courseName": {
+      "ms": "Mak Yong Kelantan",
+      "en": "Mak Yong Kelantan"
+    },
+    "title": {
+      "ms": "Menghadap Rebab",
+      "en": "Menghadap Rebab"
+    },
+    "order": 3,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "mak-yong-4",
+    "courseId": "mak-yong-kelantan",
+    "courseName": {
+      "ms": "Mak Yong Kelantan",
+      "en": "Mak Yong Kelantan"
+    },
+    "title": {
+      "ms": "Rebab, gendang dan tetawak",
+      "en": "Rebab, gendang and tetawak"
+    },
+    "order": 4,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  },
+  {
+    "id": "mak-yong-5",
+    "courseId": "mak-yong-kelantan",
+    "courseName": {
+      "ms": "Mak Yong Kelantan",
+      "en": "Mak Yong Kelantan"
+    },
+    "title": {
+      "ms": "Menonton persembahan pertama anda",
+      "en": "Watching your first performance"
+    },
+    "order": 5,
+    "totalInCourse": 5,
+    "imageKey": "rentak-home-learn"
+  }
+]

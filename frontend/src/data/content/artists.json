@@ -1,0 +1,62 @@
+[
+  {
+    "id": "che-ning-awang",
+    "name": "Che Ning binti Awang",
+    "role": {
+      "ms": "Pelakon utama Mak Yong, 34 tahun di pentas",
+      "en": "Mak Yong principal, 34 years on stage"
+    },
+    "artFormIds": ["mak-yong"],
+    "imageKey": "rentak-artist-1"
+  },
+  {
+    "id": "lirong-anyie",
+    "name": "Lirong Anyie",
+    "role": {
+      "ms": "Pemain dan guru sape'",
+      "en": "Sape' player and teacher"
+    },
+    "artFormIds": ["sape"],
+    "imageKey": "rentak-artist-1"
+  },
+  {
+    "id": "rosli-hamzah",
+    "name": "Rosli bin Hamzah",
+    "role": {
+      "ms": "Dalang wayang kulit",
+      "en": "Wayang kulit dalang"
+    },
+    "artFormIds": ["wayang-kulit"],
+    "imageKey": "rentak-artist-1"
+  },
+  {
+    "id": "azman-yusof",
+    "name": "Azman bin Yusof",
+    "role": {
+      "ms": "Tukang karut dikir barat",
+      "en": "Dikir barat tukang karut"
+    },
+    "artFormIds": ["dikir-barat"],
+    "imageKey": "rentak-artist-2"
+  },
+  {
+    "id": "siti-hajar-mokhtar",
+    "name": "Siti Hajar binti Mokhtar",
+    "role": {
+      "ms": "Jurulatih zapin dan joget",
+      "en": "Zapin and joget instructor"
+    },
+    "artFormIds": ["zapin", "joget"],
+    "imageKey": "rentak-artist-1"
+  },
+  {
+    "id": "jalong-unggat",
+    "name": "Jalong anak Unggat",
+    "role": {
+      "ms": "Penari dan guru ngajat",
+      "en": "Ngajat dancer and teacher"
+    },
+    "artFormIds": ["nagjat"],
+    "imageKey": "rentak-artist-2"
+  }
+]

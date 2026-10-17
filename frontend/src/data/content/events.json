@@ -1,0 +1,419 @@
+[
+  {
+    "id": "dewa-muda-2026",
+    "festivalId": "george-town-2026",
+    "title": { "ms": "Mak Yong: Dewa Muda", "en": "Mak Yong: Dewa Muda" },
+    "startsAt": "2026-08-16T20:30:00+08:00",
+    "durationMinutes": 90,
+    "doorsOpenAt": "20:00",
+    "venueId": "dewan-sri-pinang-aud-a",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-detail-hero",
+    "description": {
+      "ms": "Mak Yong ialah drama tari Kelantan yang menggabungkan lakonan, nyanyian dan tarian. Pementasan ini oleh Kumpulan Seri Warisan diiringi rebab, gendang dan tetawak.",
+      "en": "Mak Yong is a Kelantanese dance drama that weaves acting, song and dance. This staging by Kumpulan Seri Warisan is accompanied live by rebab, gendang and tetawak."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: memahami Mak Yong", "en": "Audience primer: reading Mak Yong" } },
+      { "time": "20:30", "label": { "ms": "Menghadap Rebab, tarian pembukaan", "en": "Menghadap Rebab, opening dance" } },
+      { "time": "20:50", "label": { "ms": "Dewa Muda, babak satu hingga tiga", "en": "Dewa Muda, acts one to three" } }
+    ]
+  },
+  {
+    "id": "randai-showcase-2026",
+    "festivalId": "george-town-2026",
+    "title": { "ms": "Randai: Pameran Petang", "en": "Randai: Evening Showcase" },
+    "startsAt": "2026-08-22T19:30:00+08:00",
+    "durationMinutes": 75,
+    "venueId": "padang-kota",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-home-hero"
+  },
+  {
+    "id": "wayang-kulit-gt-2026",
+    "festivalId": "george-town-2026",
+    "title": { "ms": "Wayang Kulit: Hikayat Seri Rama", "en": "Wayang Kulit: Hikayat Seri Rama" },
+    "startsAt": "2026-08-29T21:00:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "studio-2",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-home-hero"
+  },
+
+  {
+    "id": "sape-night-2026",
+    "festivalId": "rainforest-2026",
+    "title": { "ms": "Malam Sape'", "en": "Sape' Night" },
+    "startsAt": "2026-09-12T20:00:00+08:00",
+    "durationMinutes": 120,
+    "doorsOpenAt": "19:30",
+    "venueId": "santubong-main-stage",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-home-rec",
+    "description": {
+      "ms": "Malam pembukaan festival di pentas utama, menampilkan pemain sape' Orang Ulu bersama ensembel muzik dunia jemputan.",
+      "en": "The festival's opening night on the main stage, featuring Orang Ulu sape' players alongside invited world-music ensembles."
+    },
+    "schedule": [
+      { "time": "19:30", "label": { "ms": "Upacara pembukaan", "en": "Opening ceremony" } },
+      { "time": "20:00", "label": { "ms": "Sape' solo: lagu tradisional Kenyah", "en": "Solo sape': traditional Kenyah tunes" } },
+      { "time": "21:00", "label": { "ms": "Set kolaborasi muzik dunia", "en": "World-music collaboration set" } }
+    ]
+  },
+  {
+    "id": "sape-duet-2026",
+    "festivalId": "rainforest-2026",
+    "title": { "ms": "Duet Sape'", "en": "Sape' Duet" },
+    "startsAt": "2026-09-13T16:00:00+08:00",
+    "durationMinutes": 60,
+    "venueId": "santubong-main-stage",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-home-rec"
+  },
+
+  {
+    "id": "maharaja-wana-2026",
+    "festivalId": "wayang-kelantan-2026",
+    "title": { "ms": "Wayang Kulit: Maharaja Wana", "en": "Wayang Kulit: Maharaja Wana" },
+    "startsAt": "2026-10-03T21:00:00+08:00",
+    "durationMinutes": 120,
+    "doorsOpenAt": "20:30",
+    "venueId": "gelanggang-seni-kb",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-3",
+    "description": {
+      "ms": "Wayang kulit Kelantan menghidupkan kisah Maharaja Wana daripada Hikayat Seri Rama. Dalang memainkan semua watak sambil memimpin ensembel serunai, gendang dan gong.",
+      "en": "Kelantanese wayang kulit brings the tale of Maharaja Wana from the Hikayat Seri Rama to life. The dalang voices every character while leading an ensemble of serunai, gendang and gong."
+    },
+    "schedule": [
+      { "time": "20:30", "label": { "ms": "Pengenalan penonton: di sebalik kelir", "en": "Audience primer: behind the screen" } },
+      { "time": "21:00", "label": { "ms": "Buka panggung, upacara pembukaan", "en": "Buka panggung, opening rite" } },
+      { "time": "21:20", "label": { "ms": "Maharaja Wana, babak utama", "en": "Maharaja Wana, main episode" } }
+    ]
+  },
+  {
+    "id": "wayang-dalang-muda-2026",
+    "festivalId": "wayang-kelantan-2026",
+    "title": { "ms": "Wayang Kulit: Dalang Muda", "en": "Wayang Kulit: Young Dalang" },
+    "startsAt": "2026-10-05T20:30:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "dewan-seri-kelantan",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-3"
+  },
+
+  {
+    "id": "dikir-finale-2026",
+    "festivalId": "dikir-pantai-2026",
+    "title": { "ms": "Dikir Barat: Pusingan Akhir", "en": "Dikir Barat: Grand Final" },
+    "startsAt": "2026-10-12T20:30:00+08:00",
+    "durationMinutes": 150,
+    "doorsOpenAt": "20:00",
+    "venueId": "gelanggang-seni-kb",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-2",
+    "description": {
+      "ms": "Kumpulan dikir barat terbaik pantai timur bertanding dalam pusingan akhir, dipimpin tok juara dan tukang karut yang berbalas pantun secara spontan.",
+      "en": "The east coast's top dikir barat troupes compete in the final, led by their tok juara and tukang karut trading improvised verse."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: peranan tok juara dan tukang karut", "en": "Audience primer: the tok juara and tukang karut" } },
+      { "time": "20:30", "label": { "ms": "Persembahan kumpulan akhir", "en": "Finalist performances" } },
+      { "time": "22:30", "label": { "ms": "Pengumuman juara", "en": "Winners announced" } }
+    ]
+  },
+  {
+    "id": "dikir-heats-2026",
+    "festivalId": "dikir-pantai-2026",
+    "title": { "ms": "Dikir Barat: Pusingan Saringan", "en": "Dikir Barat: Heats" },
+    "startsAt": "2026-10-10T20:30:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "dewan-seri-kelantan",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-2"
+  },
+
+  {
+    "id": "zapin-gala-2026",
+    "festivalId": "tari-serantau-2026",
+    "title": { "ms": "Gala Zapin", "en": "Zapin Gala" },
+    "startsAt": "2026-10-24T20:30:00+08:00",
+    "durationMinutes": 120,
+    "doorsOpenAt": "19:45",
+    "venueId": "auditorium-seri-budaya",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-4",
+    "description": {
+      "ms": "Malam kemuncak festival menghimpunkan kumpulan zapin dari seluruh rantau, diiringi gambus, marwas dan biola secara langsung.",
+      "en": "The festival's closing gala brings together zapin troupes from across the region, accompanied live by gambus, marwas and violin."
+    },
+    "schedule": [
+      { "time": "19:45", "label": { "ms": "Pengenalan penonton: zapin Melayu dan zapin Arab", "en": "Audience primer: Malay and Arab zapin" } },
+      { "time": "20:30", "label": { "ms": "Taksim gambus, pembukaan", "en": "Gambus taksim, opening" } },
+      { "time": "20:45", "label": { "ms": "Persembahan kumpulan jemputan", "en": "Guest troupe performances" } }
+    ]
+  },
+  {
+    "id": "zapin-youth-2026",
+    "festivalId": "tari-serantau-2026",
+    "title": { "ms": "Zapin Belia", "en": "Youth Zapin" },
+    "startsAt": "2026-10-18T16:00:00+08:00",
+    "durationMinutes": 75,
+    "venueId": "auditorium-seri-budaya",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-4"
+  },
+
+  {
+    "id": "randai-malin-demam-2026",
+    "festivalId": "malam-randai-2026",
+    "title": { "ms": "Randai: Malin Demam", "en": "Randai: Malin Demam" },
+    "startsAt": "2026-10-31T20:30:00+08:00",
+    "durationMinutes": 105,
+    "doorsOpenAt": "20:00",
+    "venueId": "laman-seni-klang",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-5",
+    "description": {
+      "ms": "Randai ialah teater rakyat Minangkabau yang menggabungkan cerita, nyanyian dan gerak silat dalam bulatan. Malam ini mempersembahkan kisah Malin Demam.",
+      "en": "Randai is Minangkabau folk theatre that blends storytelling, song and silat movement performed in a circle. Tonight presents the tale of Malin Demam."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: membaca bulatan randai", "en": "Audience primer: reading the randai circle" } },
+      { "time": "20:30", "label": { "ms": "Galombang, tarian bulatan pembukaan", "en": "Galombang, opening circle dance" } },
+      { "time": "20:45", "label": { "ms": "Malin Demam, kisah penuh", "en": "Malin Demam, full tale" } }
+    ]
+  },
+  {
+    "id": "randai-silat-dendang-2026",
+    "festivalId": "malam-randai-2026",
+    "title": { "ms": "Randai: Malam Silat dan Dendang", "en": "Randai: Silat and Song Night" },
+    "startsAt": "2026-11-01T20:30:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "laman-seni-klang",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-5"
+  },
+
+  {
+    "id": "bayang-opening-2026",
+    "festivalId": "bayang-pulau-2026",
+    "title": { "ms": "Bayang Pulau: Malam Pembukaan", "en": "Island Shadows: Opening Night" },
+    "startsAt": "2026-11-13T20:30:00+08:00",
+    "durationMinutes": 100,
+    "doorsOpenAt": "20:00",
+    "venueId": "dewan-budaya",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-6",
+    "description": {
+      "ms": "Malam pembukaan menampilkan wayang kulit pada kelir besar dengan muzik langsung, menggabungkan kisah tradisional dengan cerita pulau.",
+      "en": "Opening night presents wayang kulit on a large screen with live music, pairing traditional tales with stories of the island."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: patung dan kelir", "en": "Audience primer: puppets and the screen" } },
+      { "time": "20:30", "label": { "ms": "Upacara buka panggung", "en": "Opening rite" } },
+      { "time": "20:45", "label": { "ms": "Persembahan utama", "en": "Main performance" } }
+    ]
+  },
+  {
+    "id": "bayang-jalanan-2026",
+    "festivalId": "bayang-pulau-2026",
+    "title": { "ms": "Bayang Jalanan", "en": "Street Shadows" },
+    "startsAt": "2026-11-14T21:00:00+08:00",
+    "durationMinutes": 60,
+    "venueId": "lebuh-chulia-food-street",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-6"
+  },
+
+  {
+    "id": "sape-sunset-2026",
+    "festivalId": "irama-borneo-2026",
+    "title": { "ms": "Sape' Senja", "en": "Sape' at Sunset" },
+    "startsAt": "2026-11-27T18:00:00+08:00",
+    "durationMinutes": 90,
+    "doorsOpenAt": "17:30",
+    "venueId": "miri-waterfront-stage",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-7",
+    "description": {
+      "ms": "Persembahan sape' ketika matahari terbenam di tepi laut, menghimpunkan pemuzik muda dan veteran Borneo.",
+      "en": "A sunset sape' performance by the sea, bringing together young and veteran Borneo musicians."
+    },
+    "schedule": [
+      { "time": "17:30", "label": { "ms": "Pengenalan penonton: sape' dan tradisi Orang Ulu", "en": "Audience primer: the sape' and Orang Ulu tradition" } },
+      { "time": "18:00", "label": { "ms": "Set solo", "en": "Solo set" } },
+      { "time": "18:45", "label": { "ms": "Ensembel penutup", "en": "Closing ensemble" } }
+    ]
+  },
+  {
+    "id": "irama-ensemble-2026",
+    "festivalId": "irama-borneo-2026",
+    "title": { "ms": "Ensembel Irama Borneo", "en": "Borneo Rhythms Ensemble" },
+    "startsAt": "2026-11-28T20:00:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "miri-waterfront-stage",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-7"
+  },
+
+  {
+    "id": "joget-esplanade-2026",
+    "festivalId": "joget-pesisir-2026",
+    "title": { "ms": "Joget di Esplanade", "en": "Joget on the Esplanade" },
+    "startsAt": "2026-12-12T20:00:00+08:00",
+    "durationMinutes": 120,
+    "doorsOpenAt": "19:30",
+    "venueId": "padang-kota",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-9",
+    "description": {
+      "ms": "Malam joget terbuka di Padang Kota bersama ensembel ronggeng langsung. Penonton dijemput turun menari selepas persembahan utama.",
+      "en": "An open-air joget night at Padang Kota with a live ronggeng ensemble. Audiences are invited to dance after the main performance."
+    },
+    "schedule": [
+      { "time": "19:30", "label": { "ms": "Pengenalan penonton: asal-usul joget", "en": "Audience primer: where joget comes from" } },
+      { "time": "20:00", "label": { "ms": "Persembahan kumpulan joget", "en": "Joget troupe performance" } },
+      { "time": "21:15", "label": { "ms": "Joget bersama penonton", "en": "Audience joget" } }
+    ]
+  },
+  {
+    "id": "joget-ronggeng-2026",
+    "festivalId": "joget-pesisir-2026",
+    "title": { "ms": "Joget dan Ronggeng", "en": "Joget and Ronggeng" },
+    "startsAt": "2026-12-11T20:00:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "stage-a",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-9"
+  },
+
+  {
+    "id": "dewa-indera-2026",
+    "festivalId": "mak-yong-istana-2027",
+    "title": { "ms": "Mak Yong: Dewa Indera Indera Dewa", "en": "Mak Yong: Dewa Indera Indera Dewa" },
+    "startsAt": "2026-12-28T20:30:00+08:00",
+    "durationMinutes": 120,
+    "doorsOpenAt": "20:00",
+    "venueId": "gelanggang-seni-kb",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-10",
+    "description": {
+      "ms": "Musim Mak Yong dibuka dengan kisah Dewa Indera Indera Dewa, dipentaskan dalam gaya istana bersama Pak Yong, Mak Yong dan peran.",
+      "en": "The Mak Yong season opens with Dewa Indera Indera Dewa, staged in the court style with Pak Yong, Mak Yong and the peran clowns."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: watak-watak Mak Yong", "en": "Audience primer: the Mak Yong characters" } },
+      { "time": "20:30", "label": { "ms": "Menghadap Rebab, tarian pembukaan", "en": "Menghadap Rebab, opening dance" } },
+      { "time": "20:50", "label": { "ms": "Dewa Indera Indera Dewa, babak utama", "en": "Dewa Indera Indera Dewa, main episode" } }
+    ]
+  },
+  {
+    "id": "mak-yong-anak-raja-gondang-2026",
+    "festivalId": "mak-yong-istana-2027",
+    "title": { "ms": "Mak Yong: Anak Raja Gondang", "en": "Mak Yong: Anak Raja Gondang" },
+    "startsAt": "2026-12-30T20:30:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "dewan-seri-kelantan",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-10"
+  },
+  {
+    "id": "mak-yong-dewa-pechil-2027",
+    "festivalId": "mak-yong-istana-2027",
+    "title": { "ms": "Mak Yong: Dewa Pechil", "en": "Mak Yong: Dewa Pechil" },
+    "startsAt": "2027-01-02T20:30:00+08:00",
+    "durationMinutes": 120,
+    "venueId": "gelanggang-seni-kb",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-10"
+  },
+
+  {
+    "id": "nagjat-longhouse-2026",
+    "festivalId": "ngajat-kuching-2027",
+    "title": { "ms": "Ngajat: Malam Rumah Panjang", "en": "Ngajat: Longhouse Night" },
+    "startsAt": "2027-02-20T20:00:00+08:00",
+    "durationMinutes": 90,
+    "doorsOpenAt": "19:30",
+    "venueId": "dewan-budaya-kuching",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-11",
+    "description": {
+      "ms": "Ngajat ialah tarian tradisional Iban, dipersembahkan di sini dalam suasana rumah panjang dengan iringan gong dan gendang.",
+      "en": "Ngajat is the traditional Iban dance, presented here in a longhouse setting with gong and drum accompaniment."
+    },
+    "schedule": [
+      { "time": "19:30", "label": { "ms": "Pengenalan penonton: ngajat dan Gawai", "en": "Audience primer: ngajat and Gawai" } },
+      { "time": "20:00", "label": { "ms": "Ngajat Lesung, persembahan pembukaan", "en": "Ngajat Lesung, opening" } },
+      { "time": "20:30", "label": { "ms": "Ngajat pahlawan dan tarian wanita", "en": "Warrior ngajat and women's dances" } }
+    ]
+  },
+  {
+    "id": "ngajat-generasi-baru-2027",
+    "festivalId": "ngajat-kuching-2027",
+    "title": { "ms": "Ngajat: Generasi Baru", "en": "Ngajat: New Generation" },
+    "startsAt": "2027-02-21T20:00:00+08:00",
+    "durationMinutes": 75,
+    "venueId": "dewan-budaya-kuching",
+    "type": "performance",
+    "isFree": false,
+    "imageKey": "rentak-fest-11"
+  },
+
+  {
+    "id": "layar-premiere-2026",
+    "festivalId": "layar-kulit-2026",
+    "title": { "ms": "Layar Kulit: Tayangan Perdana", "en": "Shadow Screen: Premiere" },
+    "startsAt": "2027-03-12T20:30:00+08:00",
+    "durationMinutes": 90,
+    "doorsOpenAt": "20:00",
+    "venueId": "auditorium-seri-budaya",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-8",
+    "description": {
+      "ms": "Karya wayang kulit baharu yang menggabungkan patung tradisional dengan unjuran cahaya moden, dipentaskan oleh dalang muda Selangor.",
+      "en": "A new wayang kulit work combining traditional puppets with modern light projection, staged by young Selangor dalang."
+    },
+    "schedule": [
+      { "time": "20:00", "label": { "ms": "Pengenalan penonton: dari pelita ke projektor", "en": "Audience primer: from oil lamp to projector" } },
+      { "time": "20:30", "label": { "ms": "Upacara buka panggung", "en": "Opening rite" } },
+      { "time": "20:45", "label": { "ms": "Persembahan perdana", "en": "Premiere performance" } }
+    ]
+  },
+  {
+    "id": "layar-dalang-jemputan-2027",
+    "festivalId": "layar-kulit-2026",
+    "title": { "ms": "Layar Kulit: Dalang Jemputan", "en": "Shadow Screen: Guest Dalang" },
+    "startsAt": "2027-03-13T20:30:00+08:00",
+    "durationMinutes": 90,
+    "venueId": "auditorium-seri-budaya",
+    "type": "performance",
+    "isFree": true,
+    "imageKey": "rentak-fest-8"
+  }
+]

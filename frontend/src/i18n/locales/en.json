@@ -1,0 +1,240 @@
+{
+  "onboarding": {
+    "language": {
+      "title": "Choose your language",
+      "body": "Choose the language you would like to use. You can change it at any time in Settings.",
+      "selected": "Selected: {{name}}",
+      "continue": "Continue"
+    },
+    "carousel": {
+      "skip": "Skip",
+      "next": "Next",
+      "start": "Get started",
+      "discover": { "title": "Discover", "body": "Find traditional performances happening near you — Mak Yong, Wayang Kulit, Dikir Barat, Sape', with dates, venues and what to expect." },
+      "learn": { "title": "Learn", "body": "Understand the art before you see it live, through short, interactive heritage lessons." },
+      "takePart": { "title": "Take part", "body": "Attend, don't just watch. Rentak is about being there, not screen time." }
+    },
+    "interests": {
+      "title": "Choose your interests", "step": "Step 3 of 3",
+      "body": "What would you like to see? Pick three or more. This shapes your home feed and recommendations.",
+      "count": "{{n}} selected", "continue": "Continue", "skip": "Skip",
+      "makYong": "Mak Yong", "wayangKulit": "Wayang Kulit", "sape": "Sape' music",
+      "dikirBarat": "Dikir Barat", "randai": "Randai", "gamelan": "Gamelan"
+    },
+    "notifications": {
+      "title": "Stay in the loop",
+      "body": "Should we remind you before a performance starts? Three kinds of notification, all optional, all changeable in Settings.",
+      "eventTitle": "Event reminders", "eventReason": "One hour before a saved event",
+      "nearbyTitle": "Nearby festivals", "nearbyReason": "When something is on in your state",
+      "storyTitle": "Weekly heritage story", "storyReason": "One story, every Friday",
+      "allow": "Allow notifications", "notNow": "Not now"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome back",
+      "body": "Sign in to keep your saved festivals and passport stamps.",
+      "emailLabel": "Email", "emailPlaceholder": "you@example.com",
+      "passwordLabel": "Password", "revealPassword": "Show password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign in", "or": "or",
+      "apple": "Continue with Apple", "google": "Continue with Google",
+      "guest": "Browse as a guest",
+      "createAccount": "New here? Create an account"
+    },
+    "createAccount": {
+      "title": "Create your account", "step": "Step 1 of 3",
+      "body": "Only what we need. You can change all of it later.",
+      "nameLabel": "Name", "emailLabel": "Email", "passwordLabel": "Password",
+      "revealPassword": "Show password",
+      "ruleLength": "At least 8 characters", "ruleMix": "One number and one letter",
+      "consent": "I agree to the Terms and Privacy Notice, including how my festival activity is used for research.",
+      "continue": "Continue"
+    },
+    "verify": {
+      "title": "Verify your email", "step": "Step 2 of 3",
+      "body": "We sent a six-digit code to {{email}}.",
+      "bodyReset": "We sent a six-digit code to {{email}} to reset your password.",
+      "resendIn": "Resend code in 0:{{seconds}}", "resendNow": "Resend code",
+      "submit": "Verify",
+      "noCode": "No code? Check your spam folder, or", "changeEmail": "change your email address"
+    },
+    "forgotPassword": {
+      "title": "Reset your password", "emailLabel": "Email", "submit": "Send code"
+    },
+    "signOut": {
+      "title": "Sign out?",
+      "consequence": "Your saved festivals, passport stamps and progress stay on your account. Downloaded lessons will be removed from this device.",
+      "clearDownloads": "Also clear my offline downloads",
+      "cancel": "Cancel", "confirm": "Sign out"
+    },
+    "signedOut": {
+      "title": "See you soon, {{name}}",
+      "body": "You are signed out. Your passport keeps its {{count}} stamps for when you come back.",
+      "nextUp": "Next up in your state: {{name}}, {{date}}",
+      "signInAgain": "Sign in again", "guest": "Keep browsing as a guest"
+    }
+  },
+  "common": { "back": "Back" },
+  "home": {
+    "greeting": { "morning": "Good morning", "afternoon": "Good afternoon", "evening": "Good evening" },
+    "section": {
+      "featured": "Featured festival",
+      "quickActions": "Quick actions",
+      "continueLearning": "Continue learning",
+      "upcoming": "Upcoming events",
+      "recommended": "Recommended for you",
+      "recentActivity": "Recent activity"
+    },
+    "action": { "seeAll": "See all", "mySchedule": "My schedule", "notifications": "Notifications", "profile": "Profile" },
+    "quickAction": { "checkIn": "Check in", "map": "Map", "passport": "Passport", "saved": "Saved" },
+    "badge": { "happeningNow": "Happening now" },
+    "lesson": { "progress": "Lesson {{n}} of {{total}} · {{title}}" },
+    "upcoming": { "timeAndVenue": "{{time}} · {{venue}}" },
+    "recommended": {
+      "reason": "Because you saved Sape' music",
+      "locationAndDates": "{{location}} · {{dates}}"
+    },
+    "tip": { "label": "Cultural tip of the day" },
+    "activity": { "age": "{{n}}d" }
+  },
+  "splash": { "tagline": "Traditional Performing Arts" },
+  "tabs": {
+    "home": "Home", "festivals": "Festivals", "heritage": "Heritage",
+    "activities": "Activities", "schedule": "My Schedule"
+  },
+  "date": {
+    "month": {
+      "1": "Jan", "2": "Feb", "3": "Mar", "4": "Apr", "5": "May", "6": "Jun",
+      "7": "Jul", "8": "Aug", "9": "Sep", "10": "Oct", "11": "Nov", "12": "Dec"
+    },
+    "weekday": {
+      "0": "Sun", "1": "Mon", "2": "Tue", "3": "Wed", "4": "Thu", "5": "Fri", "6": "Sat"
+    },
+    "weekdayLong": {
+      "0": "Sunday", "1": "Monday", "2": "Tuesday", "3": "Wednesday", "4": "Thursday", "5": "Friday", "6": "Saturday"
+    },
+    "eventWhen": "{{weekday}} {{day}} {{month}}, {{time}}",
+    "durationMinutes": { "one": "{{count}} min", "other": "{{count}} min" },
+    "durationHours": { "one": "{{count}} hour", "other": "{{count}} hours" }
+  },
+  "festivals": {
+    "title": "Festivals",
+    "searchPlaceholder": "Search festivals, arts, places",
+    "category": {
+      "all": "All",
+      "theatre": "Theatre",
+      "music": "Music",
+      "dance": "Dance",
+      "puppetry": "Puppetry"
+    },
+    "filterButton": "Filters",
+    "count": {
+      "one": "{{count}} festival · sorted by date",
+      "other": "{{count}} festivals · sorted by date"
+    },
+    "empty": {
+      "title": "No festivals match",
+      "body": "Try removing a filter.",
+      "reset": "Clear filters"
+    },
+    "freeEntry": "Free entry",
+    "detail": {
+      "save": "Save",
+      "saved": "Saved",
+      "share": "Share",
+      "schedule": "Performance schedule",
+      "workshop": "Workshop",
+      "join": "Join",
+      "placesLeft": {
+        "one": "{{count}} place left",
+        "other": "{{count}} places left"
+      },
+      "workshopWhen": "{{when}} · {{places}}",
+      "location": "Location",
+      "register": "Register",
+      "registerFree": "Register — Free",
+      "viewPass": "View your pass"
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "reset": "Reset",
+    "group": {
+      "artForm": "Art form",
+      "state": "State",
+      "when": "When",
+      "access": "Access"
+    },
+    "when": {
+      "week": "This week",
+      "month": "This month",
+      "any": "Any date"
+    },
+    "access": {
+      "free": "Free entry only",
+      "wheelchair": "Wheelchair accessible venue"
+    },
+    "apply": {
+      "one": "Show {{count}} festival",
+      "other": "Show {{count}} festivals"
+    }
+  },
+  "workshop": {
+    "tag": "Workshop",
+    "ledBy": "Led by",
+    "where": "Where",
+    "prepareWith": "Prepare with",
+    "lessonRef": "Lesson {{n}}: {{title}}",
+    "fromLandmark": "{{distance}} from {{place}}",
+    "reserve": "Reserve a place",
+    "reserved": "You have a place",
+    "full": "Fully booked"
+  },
+  "registration": {
+    "title": "You're going",
+    "body": "Your pass is saved to My Schedule. Show it at the door.",
+    "reference": "Booking reference",
+    "whenAndVenue": "{{when}} · {{venue}}",
+    "freeSeating": "Free seating · doors open {{time}}",
+    "doorsOpen": "Doors open {{time}}",
+    "viewSchedule": "View in My Schedule",
+    "addToCalendar": "Add to calendar",
+    "calendarAdded": "Added to your calendar",
+    "calendarDenied": {
+      "title": "Calendar access is off",
+      "body": "Allow calendar access in Settings to add this event.",
+      "openSettings": "Open Settings",
+      "cancel": "Not now"
+    },
+    "learnPrompt": "New to {{artForm}}? Take the five-minute primer before {{weekday}}.",
+    "notFound": "This pass isn't on this device."
+  },
+  "search": {
+    "placeholder": "Search festivals, arts, places",
+    "cancel": "Cancel",
+    "recent": "Recent searches",
+    "group": {
+      "performances": "Performances",
+      "artForms": "Art forms",
+      "artists": "Artists"
+    },
+    "performanceMeta": "{{when}} · {{festival}}",
+    "artFormMeta": {
+      "one": "{{origin}} · {{count}} lesson",
+      "other": "{{origin}} · {{count}} lessons"
+    },
+    "empty": "No results for “{{query}}”"
+  },
+  "distance": {
+    "m": "{{value}} m",
+    "km": "{{value}} km",
+    "away": "{{distance}} away"
+  },
+  "content": {
+    "activity": {
+      "stampDikir": "Passport stamp earned — Dikir Barat",
+      "randaiReg": "Registered for Randai showcase"
+    }
+  }
+}

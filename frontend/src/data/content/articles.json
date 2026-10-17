@@ -1,0 +1,59 @@
+[
+  {
+    "id": "shadow-and-the-hand",
+    "kind": "story",
+    "title": {
+      "ms": "Bayang dan tangan: 200 tahun Wayang Kulit Siam",
+      "en": "The shadow and the hand: 200 years of Wayang Kulit Siam"
+    },
+    "standfirst": {
+      "ms": "Dalang duduk di belakang kelir putih yang diregangkan dengan pelita minyak kelapa di bahunya, dan selama enam jam dia menjadi setiap watak serentak: suara, pemain patung, dan konduktor gamelan di belakangnya.",
+      "en": "The dalang sits behind a stretched white screen with a coconut-oil lamp at his shoulder, and for six hours he is every character at once: the voice, the puppeteer, the conductor of the gamelan behind him."
+    },
+    "body": {
+      "ms": "Wayang Kulit Siam tiba di Kelantan melalui laluan perdagangan dengan selatan Thailand, dan repertoirnya berpaksikan Ramayana sebagaimana ia diceritakan semula di sini — Hikayat Seri Rama. Patung dipahat daripada kulit kerbau, ditebuk supaya cahaya menembusinya, dan diwarnakan walaupun penonton hanya melihat bayangnya.",
+      "en": "Wayang Kulit Siam arrived in Kelantan through trade routes with southern Thailand, and its repertoire drew on the Ramayana as it was retold locally — the Hikayat Seri Rama. Puppets are cut from buffalo hide, perforated so the light passes through, and painted even though the audience sees only their outline."
+    },
+    "readingMinutes": 8,
+    "audio": { "narratorName": "Pak Dain", "durationSeconds": 480 },
+    "imageKey": "rentak-art-hero",
+    "galleryId": "wayang-kulit-puppets",
+    "artFormIds": ["wayang-kulit"]
+  },
+  {
+    "id": "what-the-rebab-does",
+    "kind": "two-minute",
+    "title": {
+      "ms": "Peranan rebab dalam ensembel Mak Yong",
+      "en": "What the rebab does in a Mak Yong ensemble"
+    },
+    "body": { "ms": "", "en": "" },
+    "readingMinutes": 2,
+    "imageKey": "rentak-art-1",
+    "artFormIds": ["mak-yong"]
+  },
+  {
+    "id": "wayang-stock-characters",
+    "kind": "two-minute",
+    "title": {
+      "ms": "Mengenali watak-watak tetap Wayang Kulit",
+      "en": "Reading the stock characters of Wayang Kulit"
+    },
+    "body": { "ms": "", "en": "" },
+    "readingMinutes": 2,
+    "imageKey": "rentak-art-2",
+    "artFormIds": ["wayang-kulit"]
+  },
+  {
+    "id": "audience-etiquette",
+    "kind": "two-minute",
+    "title": {
+      "ms": "Adab penonton di persembahan kampung",
+      "en": "Audience etiquette at a village performance"
+    },
+    "body": { "ms": "", "en": "" },
+    "readingMinutes": 2,
+    "imageKey": "rentak-art-3",
+    "artFormIds": ["mak-yong", "wayang-kulit"]
+  }
+]

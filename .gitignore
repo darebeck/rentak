@@ -1,0 +1,32 @@
+# ---- OS / editors ----
+.DS_Store
+Thumbs.db
+.vs/
+*.user
+*.suo
+
+# ---- Node / Expo (frontend has its own .gitignore too) ----
+node_modules/
+
+# ---- .NET build output ----
+bin/
+obj/
+TestResults/
+*.coverage
+coverage*/
+
+# ---- Secrets and local data (NEVER commit these) ----
+.env
+*.pfx
+backend/backups/
+backend/.data/
+
+# ---- Scratch ----
+temp/
+
+# ---- Local-only docs and AI instructions ----
+docs/
+CLAUDE.md
+AGENTS.md
+
+

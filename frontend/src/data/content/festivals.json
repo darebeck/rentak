@@ -1,0 +1,274 @@
+[
+  {
+    "id": "george-town-2026",
+    "name": {
+      "ms": "Pesta George Town",
+      "en": "George Town Festival"
+    },
+    "description": {
+      "ms": "Sambutan seni dan warisan sepanjang bulan di seluruh George Town, Pulau Pinang.",
+      "en": "A month-long celebration of arts and heritage across George Town, Penang."
+    },
+    "artFormIds": ["mak-yong", "wayang-kulit"],
+    "category": "theatre",
+    "secondaryTag": {
+      "ms": "Multi-seni",
+      "en": "Multi-arts"
+    },
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-31",
+    "location": {
+      "ms": "Pulau Pinang",
+      "en": "Penang"
+    },
+    "imageKey": "rentak-home-hero",
+    "isFeatured": true,
+    "stateId": "penang",
+    "isFreeEntry": true,
+    "headlineEventId": "dewa-muda-2026",
+    "isHappeningNow": true
+  },
+  {
+    "id": "rainforest-2026",
+    "name": {
+      "ms": "Rainforest World Music Festival",
+      "en": "Rainforest World Music Festival"
+    },
+    "description": {
+      "ms": "Tiga hari muzik dunia di hutan hujan Sarawak, bersama tokoh sape' dan bengkel harian.",
+      "en": "Three days of world music in the Sarawak rainforest, with sape' masters and daily workshops."
+    },
+    "artFormIds": ["sape"],
+    "category": "music",
+    "secondaryTag": {
+      "ms": "Sape'",
+      "en": "Sape'"
+    },
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-14",
+    "location": {
+      "ms": "Kuching, Sarawak",
+      "en": "Kuching, Sarawak"
+    },
+    "stateId": "sarawak",
+    "isFreeEntry": false,
+    "headlineEventId": "sape-night-2026",
+    "imageKey": "rentak-home-rec"
+  },
+  {
+    "id": "wayang-kelantan-2026",
+    "name": {
+      "ms": "Pesta Wayang Kulit Kelantan",
+      "en": "Pesta Wayang Kulit Kelantan"
+    },
+    "description": {
+      "ms": "Empat malam teater bayang di Kota Bharu, dipimpin oleh dalang veteran.",
+      "en": "Four nights of shadow-puppet theatre in Kota Bharu, led by veteran dalang."
+    },
+    "artFormIds": ["wayang-kulit"],
+    "category": "puppetry",
+    "secondaryTag": {
+      "ms": "Wayang Kulit",
+      "en": "Wayang Kulit"
+    },
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-06",
+    "location": {
+      "ms": "Kota Bharu",
+      "en": "Kota Bharu"
+    },
+    "stateId": "kelantan",
+    "isFreeEntry": true,
+    "headlineEventId": "maharaja-wana-2026",
+    "imageKey": "rentak-fest-3"
+  },
+  {
+    "id": "dikir-pantai-2026",
+    "name": {
+      "ms": "Pesta Dikir Pantai Timur",
+      "en": "East Coast Dikir Festival"
+    },
+    "description": {
+      "ms": "Empat malam teater bayang di Kota Bharu, dipimpin oleh dalang veteran.",
+      "en": "Four nights of shadow-puppet theatre in Kota Bharu, led by veteran dalang."
+    },
+    "artFormIds": ["dikir-barat"],
+    "category": "music",
+    "secondaryTag": { "ms": "Dikir Barat", "en": "Dikir Barat" },
+    "startDate": "2026-10-10",
+    "endDate": "2026-10-12",
+    "location": { "ms": "Kota Bharu, Kelantan", "en": "Kota Bharu, Kelantan" },
+    "stateId": "kelantan",
+    "isFreeEntry": true,
+    "headlineEventId": "dikir-finale-2026",
+    "imageKey": "rentak-fest-2"
+  },
+  {
+    "id": "tari-serantau-2026",
+    "name": {
+      "ms": "Festival Tari Serantau Shah Alam",
+      "en": "Shah Alam Regional Dance Festival"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["tari-serantau"],
+    "category": "dance",
+    "secondaryTag": { "ms": "Zapin", "en": "Zapin" },
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-25",
+    "location": { "ms": "Shah Alam, Selangor", "en": "Shah Alam, Selangor" },
+    "stateId": "selangor",
+    "isFreeEntry": false,
+    "headlineEventId": "zapin-gala-2026",
+    "imageKey": "rentak-fest-4"
+  },
+  {
+    "id": "malam-randai-2026",
+    "name": {
+      "ms": "Malam Randai Klang",
+      "en": "Klang Randai Nights"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["malam-randai"],
+    "category": "theatre",
+    "secondaryTag": { "ms": "Randai", "en": "Randai" },
+    "startDate": "2026-10-31",
+    "endDate": "2026-11-02",
+    "location": { "ms": "Klang, Selangor", "en": "Klang, Selangor" },
+    "stateId": "selangor",
+    "isFreeEntry": true,
+    "headlineEventId": "randai-malin-demam-2026",
+    "imageKey": "rentak-fest-5"
+  },
+  {
+    "id": "bayang-pulau-2026",
+    "name": {
+      "ms": "Pesta Bayang Pulau",
+      "en": "Island Shadows Festival"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["bayang-pulau"],
+    "category": "puppetry",
+    "secondaryTag": { "ms": "Wayang Kulit", "en": "Wayang Kulit" },
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-15",
+    "location": { "ms": "Pulau Tikus, Pulau Pinang", "en": "Pulau Tikus, Penang" },
+    "stateId": "penang",
+    "isFreeEntry": false,
+    "headlineEventId": "bayang-opening-2026",
+    "imageKey": "rentak-fest-6"
+  },
+  {
+    "id": "irama-borneo-2026",
+    "name": {
+      "ms": "Irama Borneo",
+      "en": "Borneo Rhythms"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["irama-borneo"],
+    "category": "music",
+    "secondaryTag": { "ms": "Sape'", "en": "Sape'" },
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "location": { "ms": "Bintulu, Sarawak", "en": "Bintulu, Sarawak" },
+    "stateId": "sarawak",
+    "isFreeEntry": false,
+    "headlineEventId": "sape-sunset-2026",
+    "imageKey": "rentak-fest-7"
+  },
+  {
+    "id": "joget-pesisir-2026",
+    "name": {
+      "ms": "Pesta Joget Pesisir",
+      "en": "Coastal Joget Festival"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["joget-pesisir"],
+    "category": "dance",
+    "secondaryTag": { "ms": "Joget", "en": "Joget" },
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-13",
+    "location": { "ms": "George Town, Pulau Pinang", "en": "George Town, Penang" },
+    "stateId": "penang",
+    "isFreeEntry": true,
+    "headlineEventId": "joget-esplanade-2026",
+    "imageKey": "rentak-fest-9"
+  },
+  {
+    "id": "mak-yong-istana-2027",
+    "name": {
+      "ms": "Musim Mak Yong Istana",
+      "en": "Mak Yong Palace Season"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["mak-yong"],
+    "category": "theatre",
+    "secondaryTag": { "ms": "Mak Yong", "en": "Mak Yong" },
+    "startDate": "2026-12-28",
+    "endDate": "2027-01-03",
+    "location": { "ms": "Machang, Kelantan", "en": "Machang, Kelantan" },
+    "stateId": "kelantan",
+    "isFreeEntry": false,
+    "headlineEventId": "dewa-indera-2026",
+    "imageKey": "rentak-fest-10"
+  },
+  {
+    "id": "ngajat-kuching-2027",
+    "name": {
+      "ms": "Pesta Ngajat Kuching",
+      "en": "Kuching Ngajat Festival"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["ngajat-kuching"],
+    "category": "dance",
+    "secondaryTag": { "ms": "Ngajat", "en": "Ngajat" },
+    "startDate": "2027-02-20",
+    "endDate": "2027-02-22",
+    "location": { "ms": "Kuching, Sarawak", "en": "Kuching, Sarawak" },
+    "stateId": "sarawak",
+    "isFreeEntry": false,
+    "headlineEventId": "nagjat-longhouse-2026",
+    "imageKey": "rentak-fest-11"
+  },
+  {
+    "id": "layar-kulit-2026",
+    "name": {
+      "ms": "Layar Kulit Selangor",
+      "en": "Selangor Shadow Screen"
+    },
+    "description": {
+      "ms": "",
+      "en": ""
+    },
+    "artFormIds": ["layar-kulit"],
+    "category": "puppetry",
+    "secondaryTag": { "ms": "Wayang Kulit", "en": "Wayang Kulit" },
+    "startDate": "2027-03-12",
+    "endDate": "2027-03-14",
+    "location": { "ms": "Shah Alam, Selangor", "en": "Shah Alam, Selangor" },
+    "stateId": "selangor",
+    "isFreeEntry": true,
+    "headlineEventId": "layar-premiere-2026",
+    "imageKey": "rentak-fest-8"
+  }
+]

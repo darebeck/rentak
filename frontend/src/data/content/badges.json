@@ -1,0 +1,38 @@
+[
+  {
+    "id": "first-night-out",
+    "name": { "ms": "Malam pertama", "en": "First night out" },
+    "criteria": { "ms": "Daftar masuk ke persembahan pertama anda.", "en": "Check in to your first performance." },
+    "iconKey": "medal"
+  },
+  {
+    "id": "three-states",
+    "name": { "ms": "Tiga negeri", "en": "Three states" },
+    "criteria": { "ms": "Hadiri festival di tiga negeri berbeza.", "en": "Attend festivals in three different states." },
+    "iconKey": "compass"
+  },
+  {
+    "id": "ten-lessons",
+    "name": { "ms": "Sepuluh pelajaran", "en": "Ten lessons" },
+    "criteria": { "ms": "Selesaikan sepuluh pelajaran Warisan.", "en": "Finish ten Heritage lessons." },
+    "iconKey": "book-open-text"
+  },
+  {
+    "id": "workshop-five",
+    "name": { "ms": "Bengkel×5", "en": "Workshop×5" },
+    "criteria": { "ms": "Sertai lima bengkel.", "en": "Join five workshops." },
+    "iconKey": "hand-heart"
+  },
+  {
+    "id": "full-passport",
+    "name": { "ms": "Pasport penuh", "en": "Full passport" },
+    "criteria": { "ms": "Kumpul setiap setem dalam pasport budaya anda.", "en": "Collect every stamp in your cultural passport." },
+    "iconKey": "seal-check"
+  },
+  {
+    "id": "bring-a-friend",
+    "name": { "ms": "Bawa rakan", "en": "Bring a friend" },
+    "criteria": { "ms": "Daftar masuk bersama rakan.", "en": "Check in alongside a friend." },
+    "iconKey": "users"
+  }
+]

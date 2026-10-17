@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mak-yong-one-hour",
+    "kind": "event-reminder",
+    "title": { "ms": "Mak Yong bermula dalam satu jam", "en": "Mak Yong starts in one hour" },
+    "body": {
+      "ms": "Dewan Sri Pinang, Auditorium A · 7:30 PM",
+      "en": "Dewan Sri Pinang, Auditorium A · 7:30 PM"
+    },
+    "at": "2026-08-16T18:30:00+08:00",
+    "route": "/festival/george-town-2026"
+  },
+  {
+    "id": "heritage-explorer-stamps",
+    "kind": "challenge",
+    "title": {
+      "ms": "Dua setem daripada Peneroka Warisan",
+      "en": "Two stamps from Heritage Explorer"
+    },
+    "body": {
+      "ms": "Kemajuan cabaran anda telah dikemas kini",
+      "en": "Your challenge progress was updated"
+    },
+    "at": "2026-08-16T09:05:00+08:00",
+    "route": "/challenges"
+  },
+  {
+    "id": "weekly-story-ready",
+    "kind": "story",
+    "title": {
+      "ms": "Kisah warisan minggu ini sudah sedia",
+      "en": "This week's heritage story is ready"
+    },
+    "body": {
+      "ms": "Bayang dan tangan · 8 min",
+      "en": "The shadow and the hand · 8 min"
+    },
+    "at": "2026-08-13T08:00:00+08:00",
+    "route": "/article/shadow-and-the-hand"
+  },
+  {
+    "id": "penang-festivals-opened",
+    "kind": "nearby",
+    "title": { "ms": "Tiga festival dibuka di Pulau Pinang", "en": "Three festivals opened in Penang" },
+    "body": {
+      "ms": "Berdasarkan tempat yang biasa anda kunjungi",
+      "en": "Based on where you usually travel"
+    },
+    "at": "2026-08-12T10:20:00+08:00",
+    "route": "/(tabs)/festivals"
+  }
+]

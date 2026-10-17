@@ -1,0 +1,35 @@
+[
+  {
+    "id": "where-is-my-ticket",
+    "question": { "ms": "Di mana tiket saya?", "en": "Where is my ticket?" },
+    "route": "/(tabs)/schedule"
+  },
+  {
+    "id": "qr-check-in-failed",
+    "question": { "ms": "Daftar masuk QR saya gagal", "en": "My QR check-in failed" },
+    "route": "/(tabs)/activities"
+  },
+  {
+    "id": "missing-stamp",
+    "question": {
+      "ms": "Satu setem hilang daripada pasport saya",
+      "en": "A stamp is missing from my passport"
+    },
+    "route": "/(tabs)/schedule"
+  },
+  {
+    "id": "how-is-my-data-used",
+    "question": { "ms": "Bagaimana data saya digunakan?", "en": "How is my data used?" },
+    "route": "/settings/privacy"
+  },
+  {
+    "id": "send-us-a-message",
+    "question": { "ms": "Hantar mesej kepada kami", "en": "Send us a message" },
+    "route": "/settings/feedback"
+  },
+  {
+    "id": "find-the-info-desk",
+    "question": { "ms": "Cari kaunter maklumat festival", "en": "Find the festival info desk" },
+    "route": "/(tabs)/activities"
+  }
+]

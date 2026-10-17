@@ -1,0 +1,240 @@
+{
+  "onboarding": {
+    "language": {
+      "title": "Pilih bahasa anda",
+      "body": "Pilih bahasa yang ingin anda gunakan. Anda boleh menukarnya bila-bila masa dalam Tetapan.",
+      "selected": "Dipilih: {{name}}",
+      "continue": "Teruskan"
+    },
+    "carousel": {
+      "skip": "Langkau",
+      "next": "Seterusnya",
+      "start": "Mula",
+      "discover": { "title": "Terokai", "body": "Cari persembahan tradisional yang berlangsung berhampiran anda — Mak Yong, Wayang Kulit, Dikir Barat, Sape' — lengkap dengan tarikh, lokasi, dan gambaran tentang apa yang bakal disaksikan." },
+      "learn": { "title": "Belajar", "body": "Fahami seni tersebut sebelum menyaksikannya secara langsung, melalui pelajaran warisan yang ringkas dan interaktif." },
+      "takePart": { "title": "Sertai", "body": "Hadir dan sertai, jangan sekadar menonton. Rentak adalah tentang kehadiran secara langsung, bukan sekadar masa di hadapan skrin." }
+    },
+    "interests": {
+      "title": "Pilih minat anda", "step": "Langkah 3 daripada 3",
+      "body": "Apakah yang anda ingin lihat? Pilih tiga atau lebih. Pilihan ini menentukan suapan utama dan cadangan untuk anda.",
+      "count": "{{n}} dipilih", "continue": "Teruskan", "skip": "Langkah",
+      "makYong": "Mak Yong", "wayangKulit": "Wayang Kulit", "sape": "Musik Sape",
+      "dikirBarat": "Dikir Barat", "randai": "Randai", "gamelan": "Gamelan"
+    },
+    "notifications": {
+      "title": "Kekal terkini",
+      "body": "Should we remind you before a performance starts? Three kinds of notification, all optional, all changeable in Settings.",
+      "eventTitle": "Peringatan acara", "eventReason": "One hour before a saved event",
+      "nearbyTitle": "Festival berhampiran", "nearbyReason": "When something is on in your state",
+      "storyTitle": "Cerita warisan mingguan", "storyReason": "One story, every Friday",
+      "allow": "Benarkan notifikasi", "notNow": "Bukan sekarang"
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Selamat kembali",
+      "body": "Log masuk untuk menyimpan festival dan cop pasport anda.",
+      "emailLabel": "Emel", "emailPlaceholder": "you@example.com",
+      "passwordLabel": "Kata laluan", "revealPassword": "Tunjuk kata laluan",
+      "forgotPassword": "Lupa kata laluan?",
+      "submit": "Log masuk", "or": "atau",
+      "apple": "Teruskan dengan Apple", "google": "Teruskan dengan Google",
+      "guest": "Layari sebagai tetamu",
+      "createAccount": "Baru di sini? Cipta akaun"
+    },
+    "createAccount": {
+      "title": "Cipta akaun anda", "step": "Langkah 1 daripada 3",
+      "body": "Hanya apa yang kami perlukan. Anda boleh menukar semuanya kemudian.",
+      "nameLabel": "Nama", "emailLabel": "Emel", "passwordLabel": "Kata laluan",
+      "revealPassword": "Tunjuk kata laluan",
+      "ruleLength": "Sekurang-kurangnya 8 aksara", "ruleMix": "Satu nombor dan satu huruf",
+      "consent": "Saya bersetuju dengan Terma dan Notis Privasi, termasuk cara aktiviti festival saya digunakan untuk tujuan penyelidikan.",
+      "continue": "Teruskan"
+    },
+    "verify": {
+      "title": "Sahkan emel anda", "step": "Langkah 2 daripada 3",
+      "body": "Kod 6-digit telah dihantar ke {{email}}.",
+      "bodyReset": "Kod 6-digit telah dihantar ke {{email}} untuk tetapkan semula kata laluan anda.",
+      "resendIn": "Hantar semula kod dalam 0:{{seconds}}", "resendNow": "Hantar semula kod",
+      "submit": "Sahkan",
+      "noCode": "No code? Check your spam folder, or", "changeEmail": "tukar alamat emel"
+    },
+    "forgotPassword": {
+      "title": "Tetapkan semula kata laluan", "emailLabel": "Emel", "submit": "Hantar kod"
+    },
+    "signOut": {
+      "title": "Log keluar?",
+      "consequence": "Festival yang disimpan, cop pasport dan kemajuan anda kekal pada akaun anda. Pelajaran yang telah dimuat turun akan dipadamkan daripada peranti ini.",
+      "clearDownloads": "Padam juga muat turun luar talian saya.",
+      "cancel": "Batal", "confirm": "Log keluar"
+    },
+    "signedOut": {
+      "title": "Jumpa lagi, {{name}}",
+      "body": "Anda telah log keluar. Pasport anda mengekalkan {{count}} copnya untuk kegunaan apabila anda kembali.",
+      "nextUp": "Seterusnya di negeri anda: {{name}}, {{date}}",
+      "signInAgain": "Log masuk semula", "guest": "Terus layari sebagai tetamu"
+    }
+  },
+  "common": { "back": "Kembali" },
+  "home": {
+    "greeting": { "morning": "Selamat pagi", "afternoon": "Selamat petang", "evening": "Selamat malam" },
+    "section": {
+      "featured": "Festival pilihan",
+      "quickActions": "Tindakan pantas",
+      "continueLearning": "Teruskan pembelajaran",
+      "upcoming": "Acara akan datang",
+      "recommended": "Disyorkan untuk anda",
+      "recentActivity": "Aktiviti terkini"
+    },
+    "action": { "seeAll": "Lihat semua", "mySchedule": "Jadual saya", "notifications": "Pemberitahuan", "profile": "Profil" },
+    "quickAction": { "checkIn": "Daftar masuk", "map": "Peta", "passport": "Pasport", "saved": "Disimpan" },
+    "badge": { "happeningNow": "Sedang berlangsung" },
+    "lesson": { "progress": "Pelajaran {{n}} daripada {{total}} · {{title}}" },
+    "upcoming": { "timeAndVenue": "{{time}} · {{venue}}" },
+    "recommended": {
+      "reason": "Kerana anda menyimpan muzik Sape'",
+      "locationAndDates": "{{location}} · {{dates}}"
+    },
+    "tip": { "label": "Tip budaya hari ini" },
+    "activity": { "age": "{{n}}h" }
+  },
+  "splash": { "tagline": "Seni Persembahan Warisan" },
+  "tabs": {
+    "home": "Utama", "festivals": "Festival", "heritage": "Warisan",
+    "activities": "Aktiviti", "schedule": "Jadual Saya"
+  },
+  "date": {
+    "month": {
+      "1": "Jan", "2": "Feb", "3": "Mac", "4": "Apr", "5": "Mei", "6": "Jun",
+      "7": "Jul", "8": "Ogos", "9": "Sep", "10": "Okt", "11": "Nov", "12": "Dis"
+    },
+    "weekday": {
+      "0": "Ahd", "1": "Isn", "2": "Sel", "3": "Rab", "4": "Kha", "5": "Jum", "6": "Sab"
+    },
+    "weekdayLong": {
+      "0": "Ahad", "1": "Isnin", "2": "Selasa", "3": "Rabu", "4": "Khamis", "5": "Jumaat", "6": "Sabtu"
+    },
+    "eventWhen": "{{weekday}} {{day}} {{month}}, {{time}}",
+    "durationMinutes": { "one": "{{count}} min", "other": "{{count}} min" },
+    "durationHours": { "one": "{{count}} jam", "other": "{{count}} jam" }
+  },
+  "festivals": {
+    "title": "Festival",
+    "searchPlaceholder": "Cari festival, seni, tempat",
+    "category": {
+      "all": "Semua",
+      "theatre": "Teater",
+      "music": "Muzik",
+      "dance": "Tarian",
+      "puppetry": "Wayang"
+    },
+    "filterButton": "Penapis",
+    "count": {
+      "one": "{{count}} festival · disusun mengikut tarikh",
+      "other": "{{count}} festival · disusun mengikut tarikh"
+    },
+    "empty": {
+      "title": "Tiada festival yang sepadan",
+      "body": "Cuba buang satu penapis.",
+      "reset": "Kosongkan penapis"
+    },
+    "freeEntry": "Masuk percuma",
+    "detail": {
+      "save": "Simpan",
+      "saved": "Disimpan",
+      "share": "Kongsi",
+      "schedule": "Jadual persembahan",
+      "workshop": "Bengkel",
+      "join": "Sertai",
+      "placesLeft": {
+        "one": "{{count}} tempat lagi",
+        "other": "{{count}} tempat lagi"
+      },
+      "workshopWhen": "{{when}} · {{places}}",
+      "location": "Lokasi",
+      "register": "Daftar",
+      "registerFree": "Daftar — Percuma",
+      "viewPass": "Lihat pas anda"
+    }
+  },
+  "filters": {
+    "title": "Penapis",
+    "reset": "Set semula",
+    "group": {
+      "artForm": "Bentuk seni",
+      "state": "Negeri",
+      "when": "Bila",
+      "access": "Akses"
+    },
+    "when": {
+      "week": "Minggu ini",
+      "month": "Bulan ini",
+      "any": "Sebarang tarikh"
+    },
+    "access": {
+      "free": "Masuk percuma sahaja",
+      "wheelchair": "Tempat mesra kerusi roda"
+    },
+    "apply": {
+      "one": "Tunjuk {{count}} festival",
+      "other": "Tunjuk {{count}} festival"
+    }
+  },
+  "workshop": {
+    "tag": "Bengkel",
+    "ledBy": "Dikendalikan oleh",
+    "where": "Tempat",
+    "prepareWith": "Bersedia dengan",
+    "lessonRef": "Pelajaran {{n}}: {{title}}",
+    "fromLandmark": "{{distance}} dari {{place}}",
+    "reserve": "Tempah tempat",
+    "reserved": "Tempat anda sudah ditempah",
+    "full": "Penuh"
+  },
+  "registration": {
+    "title": "Anda akan hadir",
+    "body": "Pas anda disimpan dalam Jadual Saya. Tunjukkan di pintu masuk.",
+    "reference": "Rujukan tempahan",
+    "whenAndVenue": "{{when}} · {{venue}}",
+    "freeSeating": "Tempat duduk bebas · pintu dibuka {{time}}",
+    "doorsOpen": "Pintu dibuka {{time}}",
+    "viewSchedule": "Lihat dalam Jadual Saya",
+    "addToCalendar": "Tambah ke kalendar",
+    "calendarAdded": "Ditambah ke kalendar anda",
+    "calendarDenied": {
+      "title": "Akses kalendar dimatikan",
+      "body": "Benarkan akses kalendar dalam Tetapan untuk menambah acara ini.",
+      "openSettings": "Buka Tetapan",
+      "cancel": "Bukan sekarang"
+    },
+    "learnPrompt": "Baru mengenali {{artForm}}? Ikuti pengenalan lima minit sebelum hari {{weekday}}.",
+    "notFound": "Pas ini tiada pada peranti ini."
+  },
+  "search": {
+    "placeholder": "Cari festival, seni, tempat",
+    "cancel": "Batal",
+    "recent": "Carian terkini",
+    "group": {
+      "performances": "Persembahan",
+      "artForms": "Bentuk seni",
+      "artists": "Artis"
+    },
+    "performanceMeta": "{{when}} · {{festival}}",
+    "artFormMeta": {
+      "one": "{{origin}} · {{count}} pelajaran",
+      "other": "{{origin}} · {{count}} pelajaran"
+    },
+    "empty": "Tiada hasil untuk “{{query}}”"
+  },
+  "distance": {
+    "m": "{{value}} m",
+    "km": "{{value}} km",
+    "away": "{{distance}} dari sini"
+  },
+  "content": {
+    "activity": {
+      "stampDikir": "Setem pasport diperoleh — Dikir Barat",
+      "randaiReg": "Berdaftar untuk pementasan Randai"
+    }
+  }
+}

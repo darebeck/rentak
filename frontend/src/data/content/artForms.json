@@ -1,0 +1,138 @@
+[
+  {
+    "id": "mak-yong",
+    "name": {
+      "ms": "Mak Yong",
+      "en": "Mak Yong"
+    },
+    "origin": {
+      "ms": "Kelantan · drama tari",
+      "en": "Kelantan · dance drama"
+    },
+    "description": {
+      "ms": "Drama tari Kelantan yang diiktiraf UNESCO, menggabungkan gerak, nyanyian dan lawak spontan.",
+      "en": "A UNESCO-recognised Kelantanese dance drama combining gesture, song and improvised comedy."
+    },
+    "category": "theatre",
+    "imageKey": "rentak-art-1"
+  },
+  {
+    "id": "dikir-barat",
+    "name": {
+      "ms": "Dikir Barat",
+      "en": "Dikir Barat"
+    },
+    "origin": {
+      "ms": "Kelantan · nyanyian koir",
+      "en": "Kelantan · choral"
+    },
+    "description": {
+      "ms": "Nyanyian berkumpulan secara duduk dari Kelantan, dipimpin tukang karut dan disahut beramai-ramai.",
+      "en": "Seated group singing from Kelantan, led by a tukang karut and answered in chorus."
+    },
+    "category": "music",
+    "imageKey": "rentak-art-2"
+  },
+  {
+    "id": "randai",
+    "name": {
+      "ms": "Randai",
+      "en": "Randai"
+    },
+    "origin": {
+      "ms": "Negeri Sembilan · teater",
+      "en": "Negeri Sembilan · theatre"
+    },
+    "description": {
+      "ms": "Teater berbentuk bulatan berakar Minangkabau, menggabungkan cerita, nyanyian dan gerak silat.",
+      "en": "Minangkabau-rooted theatre in the round, blending storytelling, song and silat movement."
+    },
+    "category": "theatre",
+    "imageKey": "rentak-art-3"
+  },
+  {
+    "id": "sape",
+    "name": {
+      "ms": "Sape'",
+      "en": "Sape'"
+    },
+    "origin": {
+      "ms": "Sarawak · muzik sape'",
+      "en": "Sarawak · lute music"
+    },
+    "description": {
+      "ms": "Alat bertali Orang Ulu Sarawak, dimainkan dalam pusingan melodi yang panjang dan mengalir.",
+      "en": "A boat-lute of the Orang Ulu of Sarawak, played in long, flowing melodic cycles."
+    },
+    "category": "music",
+    "imageKey": "rentak-art-4"
+  },
+  {
+    "id": "wayang-kulit",
+    "name": {
+      "ms": "Wayang Kulit",
+      "en": "Wayang Kulit"
+    },
+    "origin": {
+      "ms": "Kelantan · teater bayang",
+      "en": "Kelantan · shadow puppetry"
+    },
+    "description": {
+      "ms": "Teater bayang di belakang kelir bercahaya, dengan seorang dalang menyuarakan setiap watak.",
+      "en": "Shadow-puppet theatre behind a lit screen, with a single dalang voicing every character."
+    },
+    "category": "puppetry",
+    "imageKey": "rentak-her-hero"
+  },
+  {
+    "id": "joget",
+    "name": {
+      "ms": "Joget",
+      "en": "Joget"
+    },
+    "origin": {
+      "ms": "Melaka · tarian sosial",
+      "en": "Malacca · social dance"
+    },
+    "description": {
+      "ms": "Tarian sosial berpasangan yang rancak, dipengaruhi muzik rakyat Portugis di Melaka dan dimainkan dengan biola, akordion dan rebana.",
+      "en": "A fast, playful social dance for couples, shaped by Portuguese folk music in Melaka and played on violin, accordion and frame drum."
+    },
+    "category": "dance",
+    "imageKey": "rentak-art-1"
+  },
+  {
+    "id": "zapin",
+    "name": {
+      "ms": "Zapin",
+      "en": "Zapin"
+    },
+    "origin": {
+      "ms": "Johor · tarian",
+      "en": "Johor · dance"
+    },
+    "description": {
+      "ms": "Tarian Melayu berasal dari tanah Arab, ditarikan dalam barisan dengan iringan gambus dan marwas, dengan gerak kaki yang pantas dan gerak tangan yang terkawal.",
+      "en": "A Malay dance of Arab origin, danced in lines to gambus and marwas drums, with quick footwork and restrained arm movements."
+    },
+    "category": "dance",
+    "imageKey": "rentak-art-2"
+  },
+  {
+    "id": "ngajat",
+    "name": {
+      "ms": "Ngajat",
+      "en": "Ngajat"
+    },
+    "origin": {
+      "ms": "Sarawak · tarian Iban",
+      "en": "Sarawak · Iban dance"
+    },
+    "description": {
+      "ms": "Tarian Iban dari Sarawak, dipersembahkan semasa Gawai dan untuk menyambut tetamu, dengan gerak perlahan dan terkawal yang meniru burung kenyalang.",
+      "en": "An Iban dance from Sarawak, performed at Gawai and to welcome guests, with slow, controlled movements that echo the hornbill."
+    },
+    "category": "dance",
+    "imageKey": "rentak-art-3"
+  }
+]

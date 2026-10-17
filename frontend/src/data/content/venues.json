@@ -1,0 +1,125 @@
+[
+  {
+    "id": "dewan-sri-pinang-aud-a",
+    "name": { "ms": "Dewan Sri Pinang, Auditorium A", "en": "Dewan Sri Pinang, Auditorium A" },
+    "area": { "ms": "Lebuh Light, George Town", "en": "Lebuh Light, George Town" },
+    "latitude": 5.4183,
+    "longitude": 100.3392,
+    "stateId": "penang",
+    "accessibility": {
+      "stepFree": true, "accessibleToilet": true, "hearingLoop": true,
+      "notes": { "ms": "Laluan landai di pintu sisi Lebuh Light.", "en": "Ramped entrance at the Lebuh Light side door." }
+    }
+  },
+  {
+    "id": "studio-2",
+    "name": { "ms": "Studio 2", "en": "Studio 2" },
+    "area": { "ms": "Dewan Sri Pinang", "en": "Dewan Sri Pinang" },
+    "latitude": 5.4185,
+    "longitude": 100.3395,
+    "stateId": "penang",
+    "accessibility": {
+      "stepFree": true, "accessibleToilet": true, "hearingLoop": false,
+      "notes": { "ms": "Laluan landai di pintu sisi Lebuh Light.", "en": "Ramped entrance at the Lebuh Light side door." }
+    }
+  },
+  {
+    "id": "stage-a",
+    "name": { "ms": "Pentas A", "en": "Stage A" },
+    "area": { "ms": "Kawasan festival George Town", "en": "George Town festival grounds" },
+    "latitude": 5.419,
+    "longitude": 100.338,
+    "stateId": "penang",
+    "accessibility": { "stepFree": true, "accessibleToilet": false, "hearingLoop": false }
+  },
+  {
+    "id": "padang-kota",
+    "name": { "ms": "Padang Kota", "en": "Padang Kota" },
+    "area": { "ms": "Esplanade, George Town", "en": "Esplanade, George Town" },
+    "latitude": 5.4208,
+    "longitude": 100.3428,
+    "stateId": "penang",
+    "accessibility": { "stepFree": true, "accessibleToilet": false, "hearingLoop": false }
+  },
+  {
+    "id": "lebuh-chulia-food-street",
+    "name": { "ms": "Jalan makanan Lebuh Chulia", "en": "Lebuh Chulia food street" },
+    "area": { "ms": "George Town", "en": "George Town" },
+    "latitude": 5.4181,
+    "longitude": 100.3348,
+    "stateId": "penang",
+    "accessibility": { "stepFree": false, "accessibleToilet": false, "hearingLoop": false }
+  },
+  {
+    "id": "dewan-budaya",
+    "name": { "ms": "Dewan Budaya", "en": "Dewan Budaya" },
+    "area": { "ms": "Universiti Sains Malaysia", "en": "Universiti Sains Malaysia" },
+    "latitude": 5.356,
+    "longitude": 100.302,
+    "stateId": "penang",
+    "accessibility": { "stepFree": true, "accessibleToilet": true, "hearingLoop": false }
+  },
+  {
+    "id": "santubong-main-stage",
+    "name": { "ms": "Pentas Utama Santubong", "en": "Santubong Main Stage" },
+    "area": { "ms": "Kampung Budaya Sarawak", "en": "Sarawak Cultural Village" },
+    "latitude": 1.750,
+    "longitude": 110.315,
+    "stateId": "sarawak",
+    "accessibility": { "stepFree": false, "accessibleToilet": true, "hearingLoop": false }
+  },
+  {
+    "id": "gelanggang-seni-kb",
+    "name": { "ms": "Gelanggang Seni", "en": "Gelanggang Seni" },
+    "area": { "ms": "Kota Bharu", "en": "Kota Bharu" },
+    "latitude": 6.1236,
+    "longitude": 102.2386,
+    "stateId": "kelantan",
+    "accessibility": { "stepFree": false, "accessibleToilet": false, "hearingLoop": false }
+  },
+  {
+    "id": "dewan-seri-kelantan",
+    "name": { "ms": "Dewan Seri Kelantan", "en": "Dewan Seri Kelantan" },
+    "area": { "ms": "Kota Bharu", "en": "Kota Bharu" },
+    "latitude": 6.1254,
+    "longitude": 102.2410,
+    "stateId": "kelantan",
+    "accessibility": { "stepFree": true, "accessibleToilet": true, "hearingLoop": false }
+  },
+  {
+    "id": "auditorium-seri-budaya",
+    "name": { "ms": "Auditorium Seri Budaya", "en": "Auditorium Seri Budaya" },
+    "area": { "ms": "Shah Alam", "en": "Shah Alam" },
+    "latitude": 3.0733,
+    "longitude": 101.5185,
+    "stateId": "selangor",
+    "accessibility": { "stepFree": true, "accessibleToilet": true, "hearingLoop": true }
+  },
+  {
+    "id": "laman-seni-klang",
+    "name": { "ms": "Laman Seni Klang", "en": "Laman Seni Klang" },
+    "area": { "ms": "Klang", "en": "Klang" },
+    "latitude": 3.0449,
+    "longitude": 101.4456,
+    "stateId": "selangor",
+    "accessibility": { "stepFree": false, "accessibleToilet": false, "hearingLoop": false }
+  },
+  {
+    "id": "miri-waterfront-stage",
+    "name": { "ms": "Pentas Tebingan Miri", "en": "Miri Waterfront Stage" },
+    "area": { "ms": "Miri", "en": "Miri" },
+    "latitude": 4.3925,
+    "longitude": 113.9860,
+    "stateId": "sarawak",
+    "accessibility": { "stepFree": true, "accessibleToilet": true, "hearingLoop": false }
+  },
+  {
+    "id": "dewan-budaya-kuching",
+    "name": { "ms": "Dewan Budaya Kuching", "en": "Dewan Budaya Kuching" },
+    "area": { "ms": "Kuching", "en": "Kuching" },
+    "latitude": 1.5580,
+    "longitude": 110.3440,
+    "stateId": "sarawak",
+    "accessibility": { "stepFree": true, "accessibleToilet": true, "hearingLoop": false }
+  }
+]

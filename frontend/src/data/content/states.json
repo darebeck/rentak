@@ -1,0 +1,18 @@
+[
+  { "id": "johor", "name": { "ms": "Johor", "en": "Johor" } },
+  { "id": "kedah", "name": { "ms": "Kedah", "en": "Kedah" } },
+  { "id": "kelantan", "name": { "ms": "Kelantan", "en": "Kelantan" } },
+  { "id": "melaka", "name": { "ms": "Melaka", "en": "Malacca" } },
+  { "id": "negeri_sembilan", "name": { "ms": "Negeri Sembilan", "en": "Negeri Sembilan" } },
+  { "id": "pahang", "name": { "ms": "Pahang", "en": "Pahang" } },
+  { "id": "penang", "name": { "ms": "Pulau Pinang", "en": "Penang" } },
+  { "id": "perak", "name": { "ms": "Perak", "en": "Perak" } },
+  { "id": "perlis", "name": { "ms": "Perlis", "en": "Perlis" } },
+  { "id": "sabah", "name": { "ms": "Sabah", "en": "Sabah" } },
+  { "id": "sarawak", "name": { "ms": "Sarawak", "en": "Sarawak" } },
+  { "id": "selangor", "name": { "ms": "Selangor", "en": "Selangor" } },
+  { "id": "terengganu", "name": { "ms": "Terengganu", "en": "Terengganu" } },
+  { "id": "kuala_lumpur", "name": { "ms": "Kuala Lumpur", "en": "Kuala Lumpur" } },
+  { "id": "cyberjaya", "name": { "ms": "Cyberjaya", "en": "Cyberjaya" } },
+  { "id": "labuan", "name": { "ms": "Labuan", "en": "Labuan" } }
+]

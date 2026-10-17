@@ -1,0 +1,19 @@
+[
+  {
+    "id": "three-forms-one-weekend",
+    "title": { "ms": "Tiga bentuk, satu hujung minggu", "en": "Three forms, one weekend" },
+    "criteria": {
+      "ms": "Hadiri persembahan teater, muzik dan tarian dalam satu hujung minggu.",
+      "en": "Attend a theatre, a music and a dance performance in one weekend."
+    },
+    "progressTarget": 3,
+    "advanceRoute": "/(tabs)/festivals"
+  },
+  {
+    "id": "heritage-explorer",
+    "title": { "ms": "Peneroka Warisan", "en": "Heritage Explorer" },
+    "criteria": { "ms": "Hadiri sepuluh persembahan.", "en": "Attend ten performances." },
+    "progressTarget": 10,
+    "advanceRoute": "/(tabs)/festivals"
+  }
+]

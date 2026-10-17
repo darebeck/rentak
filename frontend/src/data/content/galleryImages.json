@@ -1,0 +1,50 @@
+[
+  {
+    "id": "gal-big",
+    "imageKey": "rentak-gal-big",
+    "caption": {
+      "ms": "Patung kulit kerbau dijemur di Kampung Laut, 2024.",
+      "en": "Buffalo-hide puppets drying in Kampung Laut, 2024."
+    },
+    "credit": { "ms": "Arkib festival", "en": "Festival archive" },
+    "category": "puppets",
+    "articleId": "shadow-and-the-hand",
+    "galleryId": "wayang-kulit-puppets"
+  },
+  {
+    "id": "gal-a",
+    "imageKey": "rentak-gal-a",
+    "caption": { "ms": "", "en": "" },
+    "credit": { "ms": "Arkib festival", "en": "Festival archive" },
+    "category": "puppets",
+    "articleId": "shadow-and-the-hand",
+    "galleryId": "wayang-kulit-puppets"
+  },
+  {
+    "id": "gal-b",
+    "imageKey": "rentak-gal-b",
+    "caption": { "ms": "", "en": "" },
+    "credit": { "ms": "Arkib festival", "en": "Festival archive" },
+    "category": "costume",
+    "articleId": "shadow-and-the-hand",
+    "galleryId": "wayang-kulit-puppets"
+  },
+  {
+    "id": "gal-c",
+    "imageKey": "rentak-gal-c",
+    "caption": { "ms": "", "en": "" },
+    "credit": { "ms": "Arkib festival", "en": "Festival archive" },
+    "category": "instruments",
+    "articleId": "shadow-and-the-hand",
+    "galleryId": "wayang-kulit-puppets"
+  },
+  {
+    "id": "gal-d",
+    "imageKey": "rentak-gal-d",
+    "caption": { "ms": "", "en": "" },
+    "credit": { "ms": "Arkib festival", "en": "Festival archive" },
+    "category": "puppets",
+    "articleId": "shadow-and-the-hand",
+    "galleryId": "wayang-kulit-puppets"
+  }
+]
