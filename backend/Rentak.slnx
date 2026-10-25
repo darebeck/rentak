@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Rentak.Application/Rentak.Application.csproj" />
+    <Project Path="src/Rentak.Domain/Rentak.Domain.csproj" />
+    <Project Path="src/Rentak.Infrastructure/Rentak.Infrastructure.csproj" />
+    <Project Path="src/Rentak.Web/Rentak.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Rentak.IntegrationTests/Rentak.IntegrationTests.csproj" />
+    <Project Path="tests/Rentak.UnitTests/Rentak.UnitTests.csproj" />
+  </Folder>
+</Solution>
