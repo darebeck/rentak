@@ -1,0 +1,44 @@
+# Local infrastructure for Rentak
+#   Start: docker-compose up -d
+#   Stop: docker compose down     (data is kept in volumes)
+#   Wipe: docker compose down -v  (data is wiped//DELETES the database and all volumes)
+name: rentak
+
+services:
+  postgress:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: rentak
+      POSTGRES_USER: rentak
+      POSTGRES_PASSWORD: ${PG_PASSWORD:?Set PG_PASSWORD in backend/.env}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U rentak -d rentak"]
+      interval: 5s
+      retries: 10
+    
+  mailpit:
+    # Mailpit is a local SMTP server for testing email sending in development.
+    # Catches every email the app sends and shows it at http://localhost:8025
+    image: axllent/mailpit:latest
+    restart: unless-stopped
+    ports:
+      - "1025:1025" # SMTP (the app sends emails to localhost:1025)
+      - "8025:8025" # Web UI
+    
+  dashboard:
+    # .NET Aspire dashboard: logs, traces, metrics, at http://localhost:18888
+    image: mcr.microsoft.com/dotnet/aspire-dashboard:9.0
+    restart: unless-stopped
+    environment:
+      DOTNET_ASPIRE_UNSECURED_ALLOW_ANONYMOUS: "true"
+    ports:
+      - "18888:18888"   # dashboard UI
+      - "4317:4317"     # OTLP gRPC: the app sends telemetry to localhost:4317
+
+volumes:
+  pgdata:

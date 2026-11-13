@@ -1,0 +1,33 @@
+name: backend-ci
+
+on:
+  push:
+    branches: [main]
+    paths: ["backend/**", ".github/workflows/backend-ci.yml"]
+  pull_request:
+    paths: ["backend/**", ".github/workflows/backend-ci.yml"]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest              # Github's linux machine; it has docker, for phase 2
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4     # download the code
+      
+      - uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: backend/global.json
+      
+      - name: Restore
+        run: dotnet restore
+      
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test --configuration Release --no-build --colect:"XPlat Code Coverage"
+
+      - name: Vulnerable packages
+        run: dotnet list package --vulnerable --include-transitive
